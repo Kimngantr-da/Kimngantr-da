@@ -15,13 +15,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#About)
 - [Portfolio Projects](#portfolio-projects)
    - **SQL**
-    - 
-    - 
    - **Python**
-    - 
-    - 
-  - **Excel / Google Sheets**
-  - **Power BI** 
+   - **Excel / Google Sheets**
+   - **Power BI** 
 
 ## About
 - A proactive, detail-oriented individual committed to driving continuous improvement in processes and outcomes,
