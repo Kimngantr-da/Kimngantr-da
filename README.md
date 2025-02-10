@@ -8,22 +8,25 @@
 
 My CV in [pdf](#).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Business Analytics related topics.
 
 ## Table of Contents
 
-- [About](#about)
+- [About](#About)
 - [Portfolio Projects](#portfolio-projects)
    - **SQL**
-    - [Covid 19 Data Exploration](#)
-    - [Nashville Housing Data Cleaning](#)
+    - 
+    - 
    - **Python**
-    - [Analyzing the Factors Contributing to the Success of a Movie](#)
-    - [Tech Store Sales Analysis](#)
+    - 
+    - 
   - **Excel / Google Sheets**
-  - **Power BI** ---> [go to Power BI](#)
-  - 
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
+  - **Power BI** 
 
+## About
+- A proactive, detail-oriented individual committed to driving continuous improvement in processes and outcomes,
+  with a strong analytical mindset and a dedication to collaboration. 
+- With a “Can do” attitude, I am eager to bring my skills to a dynamic, data-driven environment
+  where I can contribute to optimizing planning and data analysis efforts.
+
+  
