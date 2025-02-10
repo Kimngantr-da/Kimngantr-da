@@ -6,7 +6,7 @@
 - ✨ A 4paws lover <3
 -----------
 
-My CV in [pdf](#).
+My CV in [pdf](https://github.com/Kimngantr-da/My-CV/blob/main/Tran%20Thi%20Kim%20NGAN.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Business Analytics related topics.
 
@@ -29,4 +29,12 @@ This is a repository to showcase skills, share projects and track my progress in
 - With a “Can do” attitude, I am eager to bring my skills to a dynamic, data-driven environment
   where I can contribute to optimizing planning and data analysis efforts.
 
-  
+## Portfolio-projects
+- **SQL**
+    - 
+    - 
+- **Python**
+    - 
+    - 
+- **Power BI**
+   - Coffee Shop Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Coffee_Shop_Sales_Dashborad/blob/main/README.md)
