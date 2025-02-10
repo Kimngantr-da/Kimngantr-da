@@ -6,8 +6,6 @@
 - ✨ A 4paws lover <3
 -----------
 
-# README
-
 My CV in [pdf](#).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
