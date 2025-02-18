@@ -6,7 +6,7 @@
 - ✨ A 4paws lover <3
 -----------
 
-My CV in [pdf](https://github.com/Kimngantr-da/My-CV/blob/main/Tran%20Thi%20Kim%20NGAN.pdf).
+My CV in [pdf](https://github.com/Kimngantr-da/My-CV/blob/main/Tran%20Thi%20Kim%20NGAN-%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Business Analytics related topics.
 
@@ -35,4 +35,4 @@ This is a repository to showcase skills, share projects and track my progress in
     - Project: Coffee Shop Sales Prediction --> [go to Project]()
 - **Power BI**
    - Coffee Shop Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Coffee_Shop_Sales_Dashborad/blob/main/README.md)
-   - Northwind Traders Sales Dashboard --> [go to Project]()
+   - Northwind Traders Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Northwind-Traders-Sales-Dashboard/edit/main/README.md)
