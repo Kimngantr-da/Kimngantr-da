@@ -29,7 +29,6 @@ This is a repository to showcase skills, share projects and track my progress in
 - **SQL**
     - Case Study #1 - Danny's Diner --> [go to Project]()
     - Case Study #2 - Pizza Runner --> [go to Project]()
-    - 
 - **Python**
     - Project: Investigating Netflix Movies (Fundamental) --> [go to Project]()
     - Project: Exploring NYC Public School Test Result Scores (Fundamental) --> [go to Project]()
