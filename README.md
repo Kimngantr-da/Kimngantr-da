@@ -27,12 +27,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio-projects
 - **SQL**
-    - Case Study #1 - Danny's Diner --> [go to Project]()
-    - Case Study #2 - Pizza Runner --> [go to Project]()
+    - Case Study #1 - Danny's Diner --> [go to Project](https://github.com/Kimngantr-da/Danny-s-Diner/blob/main/README.md)
+    - Case Study #2 - Pizza Runner --> [go to Project](https://github.com/Kimngantr-da/Pizza_Runner/blob/main/README.md)
 - **Python**
-    - Project: Investigating Netflix Movies (Fundamental) --> [go to Project]()
-    - Project: Exploring NYC Public School Test Result Scores (Fundamental) --> [go to Project]()
-    - Project: Coffee Shop Sales Prediction --> [go to Project]()
+
 - **Power BI**
    - Coffee Shop Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Coffee_Shop_Sales_Dashborad/blob/main/README.md)
    - Northwind Traders Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Northwind-Traders-Sales-Dashboard/edit/main/README.md)
