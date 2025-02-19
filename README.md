@@ -33,4 +33,4 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - **Power BI**
    - Coffee Shop Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Coffee_Shop_Sales_Dashborad/blob/main/README.md)
-   - Northwind Traders Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Northwind-Traders-Sales-Dashboard/edit/main/README.md)
+   - Northwind Traders Sales Dashboard --> [go to Project](https://github.com/Kimngantr-da/Northwind-Traders-Sales-Dashboard/blob/main/README.md)
