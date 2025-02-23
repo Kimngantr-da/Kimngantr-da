@@ -6,7 +6,7 @@
 - ✨ A 4paws lover <3
 -----------
 
-My CV in [pdf](https://github.com/Kimngantr-da/My-CV/blob/main/Tran%20Thi%20Kim%20Ngan%20(Emma)%20-%20CV.pdf).
+My CV in [pdf](https://github.com/Kimngantr-da/My-CV/blob/main/Tran%20Thi%20Kim%20Ngan%20(Emma)%20%20-%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Business Analytics related topics.
 
